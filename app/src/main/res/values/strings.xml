@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">EXAMEN 2DO PARCIAL LISS 5TO LUIS JERONIMO LOPEZ SARAO</string>
+    <string name="textviewlj1">Text View LJLS</string>
+    <string name="buttontext1">No me presiones :) </string>
+    <string name="USUARIOSTRING">USUARIO </string>
+    <string name="TITULO">BIENVENIDO CLIENTE </string>
+    <string name="SALIR">SALIR </string>
+    <string name="EditTextPass">Pon aqui tu password</string>
+    <string name="EditTextUser">Pon aqui tu usuario </string>
+
+
+
+</resources>

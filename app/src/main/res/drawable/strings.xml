@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">EXAMEN 2DO PARCIAL LISS 5TO LUIS JERONIMO LOPEZ SARAO</string>
+    <string name="textviewlj1">Text View LJLS</string>
+    <string name="buttontext1">No me presiones :) </string>
+    <string name="USUARIOSTRING">USUARIO </string>
+    <string name="TITULO">BIENVENIDO CLIENTE </string>
+    <string name="SALIR">SALIR </string>
+    <string name="EditTextPass">Pon aqui tu password</string>
+    <string name="EditTextUser">Pon aqui tu usuario </string>
+    <string name="title_activity_menufinal1">menufinal1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
